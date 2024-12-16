@@ -1,0 +1,277 @@
+Institution_Sector_at_Entry,Gender,Starting_Enrollment_Intensity,Metric,2020,2021,2022
+All Sectors,Female,Total,Retention Rate,0.6743150334868824,0.6832127859094059,0.6937284929053289
+All Sectors,Female,Total,Retention Rate,0.7617141760165943,0.7715211807395931,0.7791297450625877
+All Sectors,Female,Total,Retention Rate,1203307.0,1226350.0,1240579.0
+All Sectors,Female,Full-Time,Retention Rate,0.7327205679546119,0.7428622668945116,0.7540499029474546
+All Sectors,Female,Full-Time,Retention Rate,0.8194323160012531,0.8321558965078375,0.8409184819087202
+All Sectors,Female,Full-Time,Retention Rate,960781.0,981369.0,992246.0
+All Sectors,Female,Part-Time,Retention Rate,0.4553986501444067,0.4577763140166769,0.4728392563676114
+All Sectors,Female,Part-Time,Retention Rate,0.5294244837651807,0.5283612030120212,0.5409545618303583
+All Sectors,Female,Part-Time,Retention Rate,194243.0,200397.0,202627.0
+All Sectors,Female,Non-Credential,Retention Rate,0.517345703912868,0.5331410407346362,0.5256354483872973
+All Sectors,Female,Non-Credential,Retention Rate,0.643354175070593,0.6521662349894043,0.6278043626872165
+All Sectors,Female,Non-Credential,Retention Rate,19832.0,16988.0,16091.0
+All Sectors,Female,Program Unknown,Retention Rate,0.3059997891111033,0.2914190462385853,0.2753334458889076
+All Sectors,Female,Program Unknown,Retention Rate,0.481002425222312,0.4544861574141179,0.4207327367887895
+All Sectors,Female,Program Unknown,Retention Rate,28451.0,27596.0,29615.0
+All Sectors,Male,Total,Retention Rate,0.6455232262084204,0.6553191654220832,0.6660204887523475
+All Sectors,Male,Total,Retention Rate,0.7355272613066604,0.7449427297927115,0.7524637894744798
+All Sectors,Male,Total,Retention Rate,983867.0,1032474.0,1058532.0
+All Sectors,Male,Full-Time,Retention Rate,0.7083008463708643,0.7181552164561188,0.7298385556892173
+All Sectors,Male,Full-Time,Retention Rate,0.7938868940754039,0.8072811135417902,0.816380964656012
+All Sectors,Male,Full-Time,Retention Rate,779800.0,817787.0,837936.0
+All Sectors,Male,Part-Time,Retention Rate,0.4166983186468145,0.4275950649870969,0.438452359882848
+All Sectors,Male,Part-Time,Retention Rate,0.5012280968297377,0.5001355125319633,0.5062429705920973
+All Sectors,Male,Part-Time,Retention Rate,157968.0,169726.0,175157.0
+All Sectors,Male,Non-Credential,Retention Rate,0.4911399711399711,0.5010253357147583,0.5003106662064204
+All Sectors,Male,Non-Credential,Retention Rate,0.637979797979798,0.6452338426936561,0.6270624784259579
+All Sectors,Male,Non-Credential,Retention Rate,17325.0,15117.0,14485.0
+All Sectors,Male,Program Unknown,Retention Rate,0.2933898658511156,0.3067283206004557,0.3037087290818634
+All Sectors,Male,Program Unknown,Retention Rate,0.4989573920900813,0.4794933655006031,0.474155198035795
+All Sectors,Male,Program Unknown,Retention Rate,28774.0,29844.0,30954.0
+All Sectors,Gender Missing,Total,Retention Rate,0.6873302503119724,0.6905701018238782,0.7029191065936209
+All Sectors,Gender Missing,Total,Retention Rate,0.7220215811495265,0.7254881391965984,0.7398026253718858
+All Sectors,Gender Missing,Total,Retention Rate,136230.0,142992.0,158987.0
+All Sectors,Gender Missing,Full-Time,Retention Rate,0.7559634377356409,0.7643025233784891,0.7786693785454372
+All Sectors,Gender Missing,Full-Time,Retention Rate,0.7901440052967466,0.7995046668840726,0.8156849347719003
+All Sectors,Gender Missing,Full-Time,Retention Rate,108746.0,113459.0,125866.0
+All Sectors,Gender Missing,Part-Time,Retention Rate,0.4397377960967373,0.4486704497490972,0.4628528665862886
+All Sectors,Gender Missing,Part-Time,Retention Rate,0.4731588617966926,0.4819678281667682,0.4991477154616888
+All Sectors,Gender Missing,Part-Time,Retention Rate,20137.0,21323.0,24053.0
+All Sectors,Gender Missing,Non-Credential,Retention Rate,0.3580786026200873,0.391304347826087,0.3245264207377866
+All Sectors,Gender Missing,Non-Credential,Retention Rate,0.4017467248908297,0.4252531268612269,0.3624127617148554
+All Sectors,Gender Missing,Non-Credential,Retention Rate,2061.0,1679.0,2006.0
+All Sectors,Gender Missing,Program Unknown,Retention Rate,0.3469542186908815,0.2763742152809676,0.2779665817048994
+All Sectors,Gender Missing,Program Unknown,Retention Rate,0.3934922436625047,0.3118971061093247,0.3142169357122628
+All Sectors,Gender Missing,Program Unknown,Retention Rate,5286.0,6531.0,7062.0
+Public 4-Year,Total,Total,Retention Rate,0.7673662233724433,0.7679500926416637,0.7799357710607527
+Public 4-Year,Total,Total,Retention Rate,0.849484031621413,0.8537432572891118,0.8638951557606511
+Public 4-Year,Total,Total,Retention Rate,919630.0,973644.0,1004843.0
+Public 4-Year,Female,Total,Retention Rate,0.7744471723688746,0.7736021504303455,0.7855782621178888
+Public 4-Year,Female,Total,Retention Rate,0.8617344101233487,0.8650453294592594,0.8749938963770848
+Public 4-Year,Female,Total,Retention Rate,472887.0,501109.0,511991.0
+Public 4-Year,Female,Full-Time,Retention Rate,0.8002110164340517,0.7990020244400416,0.8120599492892686
+Public 4-Year,Female,Full-Time,Retention Rate,0.8836932463272819,0.8871191225412118,0.8989416615470363
+Public 4-Year,Female,Full-Time,Retention Rate,435985.0,463338.0,473667.0
+Public 4-Year,Female,Part-Time,Retention Rate,0.4908250321719651,0.4832484960666358,0.5012794995735002
+Public 4-Year,Female,Part-Time,Retention Rate,0.6268528668795577,0.6242017584451642,0.6386598426689414
+Public 4-Year,Female,Part-Time,Retention Rate,20981.0,21610.0,21102.0
+Public 4-Year,Female,Non-Credential,Retention Rate,0.6620668025717422,0.6221742260619151,0.6048352280903727
+Public 4-Year,Female,Non-Credential,Retention Rate,0.7671318801944488,0.7282937365010799,0.6883004748884731
+Public 4-Year,Female,Non-Credential,Retention Rate,6377.0,6945.0,6949.0
+Public 4-Year,Female,Program Unknown,Retention Rate,0.2961022632020117,0.2915581597222222,0.2708069697264674
+Public 4-Year,Female,Program Unknown,Retention Rate,0.4381810561609388,0.4230685763888889,0.3825562153217171
+Public 4-Year,Female,Program Unknown,Retention Rate,9544.0,9216.0,10273.0
+Public 4-Year,Male,Total,Retention Rate,0.7569818767746642,0.7600430309625087,0.7712165152559965
+Public 4-Year,Male,Total,Retention Rate,0.841255137013263,0.847633297062024,0.8574545227380304
+Public 4-Year,Male,Total,Retention Rate,381058.0,404360.0,416197.0
+Public 4-Year,Male,Full-Time,Retention Rate,0.7841961243245104,0.7885556890755168,0.7994653035919356
+Public 4-Year,Male,Full-Time,Retention Rate,0.8630347984717585,0.8720710746256566,0.8822830804163516
+Public 4-Year,Male,Full-Time,Retention Rate,348636.0,370315.0,382273.0
+Public 4-Year,Male,Part-Time,Retention Rate,0.477271521773723,0.4686506488768437,0.4809428026200423
+Public 4-Year,Male,Part-Time,Retention Rate,0.6039887551052883,0.5972794079324543,0.5949765330857703
+Public 4-Year,Male,Part-Time,Retention Rate,18853.0,19187.0,19389.0
+Public 4-Year,Male,Non-Credential,Retention Rate,0.6486682369994564,0.6013171225937184,0.5886304909560723
+Public 4-Year,Male,Non-Credential,Retention Rate,0.7700670411306396,0.7303275920297196,0.705770887166236
+Public 4-Year,Male,Non-Credential,Retention Rate,5519.0,5922.0,5805.0
+Public 4-Year,Male,Program Unknown,Retention Rate,0.3077018633540372,0.3093106535362578,0.3003436426116838
+Public 4-Year,Male,Program Unknown,Retention Rate,0.5024844720496895,0.4502014324082363,0.4540664375715922
+Public 4-Year,Male,Program Unknown,Retention Rate,8050.0,8936.0,8730.0
+Public 4-Year,Gender Missing,Total,Retention Rate,0.7766308898530867,0.7733039970663733,0.7895897201748092
+Public 4-Year,Gender Missing,Total,Retention Rate,0.8090279363629443,0.8069086908690869,0.8247341986824082
+Public 4-Year,Gender Missing,Total,Retention Rate,65685.0,68175.0,76655.0
+Public 4-Year,Gender Missing,Full-Time,Retention Rate,0.8164879174585935,0.8233569428430242,0.8381035612846843
+Public 4-Year,Gender Missing,Full-Time,Retention Rate,0.8482385283736085,0.8570910887827377,0.8729153011433981
+Public 4-Year,Gender Missing,Full-Time,Retention Rate,58928.0,60710.0,68655.0
+Public 4-Year,Gender Missing,Part-Time,Retention Rate,0.5340409956076134,0.5252259036144579,0.5908769448373409
+Public 4-Year,Gender Missing,Part-Time,Retention Rate,0.5772327964860908,0.5764307228915663,0.6481612446958982
+Public 4-Year,Gender Missing,Part-Time,Retention Rate,2732.0,2656.0,2828.0
+Public 4-Year,Gender Missing,Non-Credential,Retention Rate,0.4553472987872106,0.4206896551724138,0.3058103975535168
+Public 4-Year,Gender Missing,Non-Credential,Retention Rate,0.4928335170893054,0.4574712643678161,0.345565749235474
+Public 4-Year,Gender Missing,Non-Credential,Retention Rate,907.0,870.0,981.0
+Public 4-Year,Gender Missing,Program Unknown,Retention Rate,0.3293778062860808,0.247017009393247,0.2421856358864232
+Public 4-Year,Gender Missing,Program Unknown,Retention Rate,0.3630532392559333,0.266057374968266,0.2667621092817943
+Public 4-Year,Gender Missing,Program Unknown,Retention Rate,3118.0,3939.0,4191.0
+Private Nonprofit 4-Year,Total,Total,Retention Rate,0.7550626496399406,0.7628951675609263,0.7596701119263107
+Private Nonprofit 4-Year,Total,Total,Retention Rate,0.8451571493548022,0.8575807303860711,0.8546007604562738
+Private Nonprofit 4-Year,Total,Total,Retention Rate,433123.0,465562.0,466825.0
+Private Nonprofit 4-Year,Female,Total,Retention Rate,0.7690129432214724,0.7745634065545299,0.7695008370853177
+Private Nonprofit 4-Year,Female,Total,Retention Rate,0.8574372334354211,0.8678802302769112,0.8640142710856102
+Private Nonprofit 4-Year,Female,Total,Retention Rate,229541.0,248744.0,246092.0
+Private Nonprofit 4-Year,Female,Full-Time,Retention Rate,0.7956324602671261,0.8010544693645024,0.8005010519444432
+Private Nonprofit 4-Year,Female,Full-Time,Retention Rate,0.8839251062540822,0.8942411416342109,0.8954142279345281
+Private Nonprofit 4-Year,Female,Full-Time,Retention Rate,211286.0,230827.0,226723.0
+Private Nonprofit 4-Year,Female,Part-Time,Retention Rate,0.465902284589715,0.4495895212618762,0.449528706083976
+Private Nonprofit 4-Year,Female,Part-Time,Retention Rate,0.5340121502524172,0.5263352089290656,0.5178234790059982
+Private Nonprofit 4-Year,Female,Part-Time,Retention Rate,11687.0,10841.0,11670.0
+Private Nonprofit 4-Year,Female,Non-Credential,Retention Rate,0.5548529876699336,0.562015503875969,0.5072245635159542
+Private Nonprofit 4-Year,Female,Non-Credential,Retention Rate,0.6667720518495099,0.6705426356589147,0.607164358819988
+Private Nonprofit 4-Year,Female,Non-Credential,Retention Rate,3163.0,3354.0,3322.0
+Private Nonprofit 4-Year,Female,Program Unknown,Retention Rate,0.3565345080763583,0.2697474476088125,0.2159013022618231
+Private Nonprofit 4-Year,Female,Program Unknown,Retention Rate,0.5010279001468428,0.4056958624395486,0.3554946310258167
+Private Nonprofit 4-Year,Female,Program Unknown,Retention Rate,3405.0,3722.0,4377.0
+Private Nonprofit 4-Year,Male,Total,Retention Rate,0.7327758274688837,0.7431393064026335,0.7406756482982172
+Private Nonprofit 4-Year,Male,Total,Retention Rate,0.83052506883178,0.8459744302957614,0.8430358589951378
+Private Nonprofit 4-Year,Male,Total,Retention Rate,184871.0,195935.0,197440.0
+Private Nonprofit 4-Year,Male,Full-Time,Retention Rate,0.7628826840828336,0.7694759285035682,0.7723821461900792
+Private Nonprofit 4-Year,Male,Full-Time,Retention Rate,0.8566369476625202,0.8716886502728618,0.8745119910764082
+Private Nonprofit 4-Year,Male,Full-Time,Retention Rate,168579.0,181044.0,181093.0
+Private Nonprofit 4-Year,Male,Part-Time,Retention Rate,0.4033550792171482,0.4363471766436573,0.4148783977110157
+Private Nonprofit 4-Year,Male,Part-Time,Retention Rate,0.5202236719478098,0.5017539889102637,0.474044553443695
+Private Nonprofit 4-Year,Male,Part-Time,Retention Rate,10730.0,8837.0,9786.0
+Private Nonprofit 4-Year,Male,Non-Credential,Retention Rate,0.5894405043341213,0.5748209574067094,0.5361736334405145
+Private Nonprofit 4-Year,Male,Non-Credential,Retention Rate,0.7159180457052797,0.7259705993215229,0.6764469453376206
+Private Nonprofit 4-Year,Male,Non-Credential,Retention Rate,2538.0,2653.0,2488.0
+Private Nonprofit 4-Year,Male,Program Unknown,Retention Rate,0.3435846560846561,0.2696265804175242,0.2386447336115885
+Private Nonprofit 4-Year,Male,Program Unknown,Retention Rate,0.5720899470899471,0.4651573066745075,0.431868401669531
+Private Nonprofit 4-Year,Male,Program Unknown,Retention Rate,3024.0,3401.0,4073.0
+Private Nonprofit 4-Year,Gender Missing,Total,Retention Rate,0.8041259152370264,0.8092706986544079,0.8168119177435281
+Private Nonprofit 4-Year,Gender Missing,Total,Retention Rate,0.8390786168563946,0.8437963894076521,0.8531747735371141
+Private Nonprofit 4-Year,Gender Missing,Total,Retention Rate,18711.0,20883.0,23293.0
+Private Nonprofit 4-Year,Gender Missing,Full-Time,Retention Rate,0.8324692724413119,0.8507000891499292,0.8601762241802686
+Private Nonprofit 4-Year,Gender Missing,Full-Time,Retention Rate,0.8667792858391099,0.8855210026744978,0.8975877509750109
+Private Nonprofit 4-Year,Gender Missing,Full-Time,Retention Rate,17167.0,19069.0,20769.0
+Private Nonprofit 4-Year,Gender Missing,Part-Time,Retention Rate,0.5549215406562055,0.5346385542168675,0.6585365853658537
+Private Nonprofit 4-Year,Gender Missing,Part-Time,Retention Rate,0.5948644793152639,0.5572289156626506,0.6865401987353207
+Private Nonprofit 4-Year,Gender Missing,Part-Time,Retention Rate,701.0,664.0,1107.0
+Private Nonprofit 4-Year,Gender Missing,Non-Credential,Retention Rate,0.3856502242152466,0.2861842105263157,0.2431192660550458
+Private Nonprofit 4-Year,Gender Missing,Non-Credential,Retention Rate,0.4439461883408072,0.3157894736842105,0.2614678899082568
+Private Nonprofit 4-Year,Gender Missing,Non-Credential,Retention Rate,223.0,304.0,436.0
+Private Nonprofit 4-Year,Gender Missing,Program Unknown,Retention Rate,0.4516129032258064,0.2789598108747045,0.3323139653414882
+Private Nonprofit 4-Year,Gender Missing,Program Unknown,Retention Rate,0.4903225806451612,0.317966903073286,0.363914373088685
+Private Nonprofit 4-Year,Gender Missing,Program Unknown,Retention Rate,620.0,846.0,981.0
+Private For-Profit 4-Year,Total,Total,Retention Rate,0.4280859384092549,0.4183382396567855,0.4435815234569016
+Private For-Profit 4-Year,Total,Total,Retention Rate,0.477293359093131,0.4714862737043883,0.501580349483
+Private For-Profit 4-Year,Total,Total,Retention Rate,42961.0,43821.0,44294.0
+Private For-Profit 4-Year,Female,Total,Retention Rate,0.4665238133743026,0.4613335553150753,0.4788896476921223
+Private For-Profit 4-Year,Female,Total,Retention Rate,0.5190021832295626,0.5189794389411471,0.5400715060458764
+Private For-Profit 4-Year,Female,Total,Retention Rate,24734.0,24026.0,24893.0
+Private For-Profit 4-Year,Female,Full-Time,Retention Rate,0.4866741441008385,0.4810319461958806,0.4941751612232161
+Private For-Profit 4-Year,Female,Full-Time,Retention Rate,0.5390161833039577,0.5383564522908785,0.5587164551695444
+Private For-Profit 4-Year,Female,Full-Time,Retention Rate,18723.0,19032.0,19228.0
+Private For-Profit 4-Year,Female,Part-Time,Retention Rate,0.4157744468236973,0.3992306048300919,0.4354506276934607
+Private For-Profit 4-Year,Female,Part-Time,Retention Rate,0.4666309778729479,0.4530882667236589,0.4830429080007495
+Private For-Profit 4-Year,Female,Part-Time,Retention Rate,5604.0,4679.0,5337.0
+Private For-Profit 4-Year,Female,Non-Credential,Retention Rate,27.0,28.0,46.0
+Private For-Profit 4-Year,Female,Program Unknown,Retention Rate,0.2078947368421052,0.1881533101045296,0.2234042553191489
+Private For-Profit 4-Year,Female,Program Unknown,Retention Rate,0.2868421052631579,0.3310104529616725,0.3191489361702128
+Private For-Profit 4-Year,Female,Program Unknown,Retention Rate,380.0,287.0,282.0
+Private For-Profit 4-Year,Male,Total,Retention Rate,0.3745565444700317,0.365237881508079,0.3965006269235153
+Private For-Profit 4-Year,Male,Total,Retention Rate,0.4239746063359681,0.4165170556552962,0.4535506668186481
+Private For-Profit 4-Year,Male,Total,Retention Rate,16067.0,17824.0,17546.0
+Private For-Profit 4-Year,Male,Full-Time,Retention Rate,0.4100946372239747,0.3948710026262938,0.4339998406755357
+Private For-Profit 4-Year,Male,Full-Time,Retention Rate,0.461198738170347,0.4453112930634945,0.4939855014737513
+Private For-Profit 4-Year,Male,Full-Time,Retention Rate,11095.0,12946.0,12553.0
+Private For-Profit 4-Year,Male,Part-Time,Retention Rate,0.3074463225216994,0.2972848596410492,0.3116053732658005
+Private For-Profit 4-Year,Male,Part-Time,Retention Rate,0.3481041571493832,0.3453750575241601,0.3545474565073772
+Private For-Profit 4-Year,Male,Part-Time,Retention Rate,4378.0,4346.0,4541.0
+Private For-Profit 4-Year,Male,Non-Credential,Retention Rate,14.0,15.0,27.0
+Private For-Profit 4-Year,Male,Program Unknown,Retention Rate,0.1948275862068965,0.195357833655706,0.1835294117647058
+Private For-Profit 4-Year,Male,Program Unknown,Retention Rate,0.2793103448275862,0.2959381044487427,0.308235294117647
+Private For-Profit 4-Year,Male,Program Unknown,Retention Rate,580.0,517.0,425.0
+Private For-Profit 4-Year,Gender Missing,Total,Retention Rate,0.3861111111111111,0.3744292237442922,0.4150943396226415
+Private For-Profit 4-Year,Gender Missing,Total,Retention Rate,0.3962962962962963,0.3896499238964992,0.4393530997304582
+Private For-Profit 4-Year,Gender Missing,Total,Retention Rate,2160.0,1971.0,1855.0
+Private For-Profit 4-Year,Gender Missing,Full-Time,Retention Rate,0.3834383438343834,0.343308395677473,0.3939075630252101
+Private For-Profit 4-Year,Gender Missing,Full-Time,Retention Rate,0.3942394239423942,0.3599334995843724,0.4191176470588235
+Private For-Profit 4-Year,Gender Missing,Full-Time,Retention Rate,1111.0,1203.0,952.0
+Private For-Profit 4-Year,Gender Missing,Part-Time,Retention Rate,0.3954183266932271,0.4398907103825136,0.4522144522144522
+Private For-Profit 4-Year,Gender Missing,Part-Time,Retention Rate,0.4053784860557768,0.453551912568306,0.4708624708624708
+Private For-Profit 4-Year,Gender Missing,Part-Time,Retention Rate,1004.0,732.0,858.0
+Private For-Profit 4-Year,Gender Missing,Program Unknown,Retention Rate,42.0,30.0,38.0
+PAB,Total,Total,Retention Rate,0.5581699098962671,0.5480423267203038,0.5639954515530552
+PAB,Total,Total,Retention Rate,0.6387711062315439,0.6320148918095048,0.6423544197737746
+PAB,Total,Total,Retention Rate,158484.0,160088.0,167090.0
+PAB,Female,Total,Retention Rate,0.5723523179775691,0.5603028324628365,0.579597449376947
+PAB,Female,Total,Retention Rate,0.6526991317478293,0.6448372840498192,0.6586716316199377
+PAB,Female,Total,Retention Rate,82119.0,79648.0,82176.0
+PAB,Female,Full-Time,Retention Rate,0.6321084864391951,0.6247403293170934,0.638165287567678
+PAB,Female,Full-Time,Retention Rate,0.7169728783902012,0.7187903172902408,0.72287261211564
+PAB,Female,Full-Time,Retention Rate,50292.0,45731.0,48945.0
+PAB,Female,Part-Time,Retention Rate,0.497761353137659,0.4940717989365566,0.5122180136090906
+PAB,Female,Part-Time,Retention Rate,0.5600525904342264,0.5543115690742759,0.5716153253108973
+PAB,Female,Part-Time,Retention Rate,28142.0,30279.0,29833.0
+PAB,Female,Non-Credential,Retention Rate,0.3638928067700987,0.4582132564841498,0.4570446735395189
+PAB,Female,Non-Credential,Retention Rate,0.5557122708039492,0.6354466858789626,0.6426116838487973
+PAB,Female,Non-Credential,Retention Rate,709.0,694.0,582.0
+PAB,Female,Program Unknown,Retention Rate,0.3175403225806452,0.2646059782608695,0.30078125
+PAB,Female,Program Unknown,Retention Rate,0.4657258064516129,0.4293478260869565,0.4683948863636363
+PAB,Female,Program Unknown,Retention Rate,2976.0,2944.0,2816.0
+PAB,Male,Total,Retention Rate,0.5396860654523915,0.535177576405696,0.5490557962873803
+PAB,Male,Total,Retention Rate,0.6270694506145417,0.6243175550177295,0.6314796982827796
+PAB,Male,Total,Retention Rate,67530.0,71068.0,74772.0
+PAB,Male,Full-Time,Retention Rate,0.598889020210377,0.6043567785109271,0.6137598463854764
+PAB,Male,Full-Time,Retention Rate,0.6863964070440847,0.6991436192615471,0.6989024416853957
+PAB,Male,Full-Time,Retention Rate,42305.0,42738.0,45829.0
+PAB,Male,Part-Time,Retention Rate,0.4560659921611521,0.4392346424974824,0.456043295249549
+PAB,Male,Part-Time,Retention Rate,0.5301704493665117,0.5088821752265861,0.5233914612146723
+PAB,Male,Part-Time,Retention Rate,21942.0,24825.0,24945.0
+PAB,Male,Non-Credential,Retention Rate,0.3637820512820512,0.4617940199335548,0.5700416088765603
+PAB,Male,Non-Credential,Retention Rate,0.5448717948717948,0.6495016611295681,0.6782246879334258
+PAB,Male,Non-Credential,Retention Rate,624.0,602.0,721.0
+PAB,Male,Program Unknown,Retention Rate,0.3290710793531403,0.3523940750947296,0.3475740006103143
+PAB,Male,Program Unknown,Retention Rate,0.5020684467845055,0.5046503616947985,0.5010680500457736
+PAB,Male,Program Unknown,Retention Rate,2659.0,2903.0,3277.0
+PAB,Gender Missing,Total,Retention Rate,0.5676287492925863,0.5413999146393512,0.5477223427331888
+PAB,Gender Missing,Total,Retention Rate,0.5987549518958687,0.5814127187366624,0.59031749161901
+PAB,Gender Missing,Total,Retention Rate,8835.0,9372.0,10142.0
+PAB,Gender Missing,Full-Time,Retention Rate,0.6429233908365795,0.6148441722212215,0.6178901312591152
+PAB,Gender Missing,Full-Time,Retention Rate,0.6766833611574847,0.6564582958025581,0.6609949765029979
+PAB,Gender Missing,Full-Time,Retention Rate,5391.0,5551.0,6171.0
+PAB,Gender Missing,Part-Time,Retention Rate,0.4615384615384615,0.4444793960364894,0.4476331360946745
+PAB,Gender Missing,Part-Time,Retention Rate,0.4867068415455512,0.4803397294746775,0.48698224852071
+PAB,Gender Missing,Part-Time,Retention Rate,2821.0,3179.0,3380.0
+PAB,Gender Missing,Non-Credential,Retention Rate,0.4538461538461538,0.5729166666666666,0.5378151260504201
+PAB,Gender Missing,Non-Credential,Retention Rate,0.5,0.6041666666666666,0.5714285714285714
+PAB,Gender Missing,Non-Credential,Retention Rate,130.0,96.0,119.0
+PAB,Gender Missing,Program Unknown,Retention Rate,0.3813387423935091,0.3534798534798535,0.3495762711864407
+PAB,Gender Missing,Program Unknown,Retention Rate,0.4137931034482758,0.4029304029304029,0.4110169491525424
+PAB,Gender Missing,Program Unknown,Retention Rate,493.0,546.0,472.0
+Public 2-Year,Total,Total,Retention Rate,0.5237623019149701,0.533691712958106,0.5496385495216383
+Public 2-Year,Total,Total,Retention Rate,0.6141600588937923,0.6162752865465546,0.6258932340887097
+Public 2-Year,Total,Total,Retention Rate,759333.0,753019.0,769815.0
+Public 2-Year,Female,Total,Retention Rate,0.5372632794159711,0.5428660393961957,0.5597536993455624
+Public 2-Year,Female,Total,Retention Rate,0.6286633871304401,0.6267894131185271,0.6369966794545279
+Public 2-Year,Female,Total,Retention Rate,388063.0,369325.0,372228.0
+Public 2-Year,Female,Full-Time,Retention Rate,0.6054455383352666,0.6155206922806874,0.6352683361933524
+Public 2-Year,Female,Full-Time,Retention Rate,0.7009811516702191,0.7057123187117306,0.7168354757064398
+Public 2-Year,Female,Full-Time,Retention Rate,238801.0,219333.0,220861.0
+Public 2-Year,Female,Part-Time,Retention Rate,0.4410036201789716,0.4480743891879682,0.4632398313842402
+Public 2-Year,Female,Part-Time,Retention Rate,0.508893729724647,0.5095960546625005,0.523229274312861
+Public 2-Year,Female,Part-Time,Retention Rate,127618.0,132815.0,134507.0
+Public 2-Year,Female,Non-Credential,Retention Rate,0.4194866422210581,0.4235155987923515,0.4378492965889381
+Public 2-Year,Female,Non-Credential,Retention Rate,0.5594552121529597,0.556860114055686,0.5579109655039507
+Public 2-Year,Female,Non-Credential,Retention Rate,9545.0,5962.0,5189.0
+Public 2-Year,Female,Program Unknown,Retention Rate,0.2997768410612447,0.3079803834150691,0.2972324565161511
+Public 2-Year,Female,Program Unknown,Retention Rate,0.5192164641705926,0.5083370485956309,0.4724530888527118
+Public 2-Year,Female,Program Unknown,Retention Rate,12099.0,11215.0,11671.0
+Public 2-Year,Male,Total,Retention Rate,0.5068528371744109,0.5222217664912754,0.5387750565045019
+Public 2-Year,Male,Total,Retention Rate,0.6022148079360422,0.6089935898187102,0.6188960174658051
+Public 2-Year,Male,Total,Retention Rate,330593.0,341332.0,350857.0
+Public 2-Year,Male,Full-Time,Retention Rate,0.5805190067368728,0.5945203775552674,0.6142360496220559
+Public 2-Year,Male,Full-Time,Retention Rate,0.6731960016538172,0.6838620478498199,0.6962326756205087
+Public 2-Year,Male,Full-Time,Retention Rate,205585.0,209029.0,214582.0
+Public 2-Year,Male,Part-Time,Retention Rate,0.4030617748879539,0.422224791653696,0.4344659360291338
+Public 2-Year,Male,Part-Time,Retention Rate,0.4804593643041376,0.4873835973424172,0.4963153193389906
+Public 2-Year,Male,Part-Time,Retention Rate,101967.0,112433.0,116428.0
+Public 2-Year,Male,Non-Credential,Retention Rate,0.3704948429713756,0.3721087286847881,0.380051432770022
+Public 2-Year,Male,Non-Credential,Retention Rate,0.5373739714914822,0.5243964207327367,0.5139603232916973
+Public 2-Year,Male,Non-Credential,Retention Rate,8629.0,5923.0,5444.0
+Public 2-Year,Male,Program Unknown,Retention Rate,0.2719955592561754,0.3085251308525131,0.3177115878636395
+Public 2-Year,Male,Program Unknown,Retention Rate,0.4899389397724119,0.5031906503190651,0.4972575157953204
+Public 2-Year,Male,Program Unknown,Retention Rate,14412.0,13947.0,14403.0
+Public 2-Year,Gender Missing,Total,Retention Rate,0.5323893109128008,0.5461262452197725,0.5506312861117055
+Public 2-Year,Gender Missing,Total,Retention Rate,0.572879022543452,0.5832821868655871,0.5899850203295528
+Public 2-Year,Gender Missing,Total,Retention Rate,40677.0,42362.0,46730.0
+Public 2-Year,Gender Missing,Full-Time,Retention Rate,0.6092506440078435,0.6182560185705193,0.6296334573515227
+Public 2-Year,Gender Missing,Full-Time,Retention Rate,0.650121111922796,0.6567823580066644,0.6708006063111479
+Public 2-Year,Gender Missing,Full-Time,Retention Rate,26009.0,26709.0,29028.0
+Public 2-Year,Gender Missing,Part-Time,Retention Rate,0.4121716151095911,0.4313614089908387,0.4300932929904185
+Public 2-Year,Gender Missing,Part-Time,Retention Rate,0.4468366236592569,0.4622541012712165,0.4635653050932929
+Public 2-Year,Gender Missing,Part-Time,Retention Rate,12866.0,14081.0,15864.0
+Public 2-Year,Gender Missing,Non-Credential,Retention Rate,0.2248743718592964,0.3672456575682382,0.3882863340563991
+Public 2-Year,Gender Missing,Non-Credential,Retention Rate,0.271356783919598,0.3995037220843672,0.4403470715835141
+Public 2-Year,Gender Missing,Non-Credential,Retention Rate,796.0,403.0,461.0
+Public 2-Year,Gender Missing,Program Unknown,Retention Rate,0.3260437375745527,0.3421727972626176,0.3282498184458969
+Public 2-Year,Gender Missing,Program Unknown,Retention Rate,0.426441351888668,0.4251497005988024,0.3928830791575889
+Public 2-Year,Gender Missing,Program Unknown,Retention Rate,1006.0,1169.0,1377.0
